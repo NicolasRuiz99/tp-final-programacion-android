@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navHomeFragment"
+        android:title="Inicio"
+        android:icon="@drawable/ic_home"
+        />
+
+    <item
+        android:id="@+id/navProducersFragment"
+        android:title="Productores"
+        android:icon="@drawable/ic_producers"
+        />
+
+    <item
+        android:id="@+id/navChatFragment"
+        android:title="Chat"
+        android:icon="@drawable/ic_chat"
+        />
+
+    <item
+        android:id="@+id/navMapFragment"
+        android:title="Mapa"
+        android:icon="@drawable/ic_map"
+        />
+</menu>
