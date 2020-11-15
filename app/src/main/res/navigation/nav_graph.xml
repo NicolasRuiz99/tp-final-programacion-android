@@ -22,6 +22,9 @@
         <action
             android:id="@+id/action_producersFragment_to_chatFragment"
             app:destination="@id/navChatFragment" />
+        <action
+            android:id="@+id/action_navProducersFragment_to_producersDetailDialogFragment"
+            app:destination="@id/producersDetailDialogFragment" />
     </fragment>
     <fragment
         android:id="@+id/navChatFragment"
@@ -37,4 +40,10 @@
         android:name="com.socialbee.view.ui.fragments.MapFragment"
         android:label="fragment_map"
         tools:layout="@layout/fragment_map" />
+    <dialog
+        android:id="@+id/producersDetailDialogFragment"
+        android:name="com.socialbee.view.ui.fragments.ProducersDetailDialogFragment"
+        android:label="ProducersDetailDialogFragment"
+        tools:layout="@layout/fragment_producers_detail_dialog"
+        />
 </navigation>
