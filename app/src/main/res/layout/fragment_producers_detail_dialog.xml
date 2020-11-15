@@ -95,16 +95,16 @@
 
                         <ImageView
                             android:id="@+id/ivDetailProducerPhone"
-                            android:layout_width="30dp"
-                            android:layout_height="30dp"
+                            android:layout_width="50dp"
+                            android:layout_height="40dp"
                             android:src="@drawable/ic_phone"
                             android:layout_marginTop="10dp"
                             android:layout_gravity="center_horizontal"/>
 
                         <ImageView
                             android:id="@+id/ivDetailProducerWebsite"
-                            android:layout_width="30dp"
-                            android:layout_height="30dp"
+                            android:layout_width="50dp"
+                            android:layout_height="40dp"
                             android:src="@drawable/ic_link"
                             android:layout_marginTop="10dp"
                             android:layout_gravity="center_horizontal"/>

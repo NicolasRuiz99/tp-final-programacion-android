@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">SocialBee</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vel ex suscipit, aliquam dui in, auctor augue. Nunc et nulla efficitur, aliquet ligula ac, facilisis magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dui lectus, eleifend sit amet interdum id, posuere nec lacus. Fusce dapibus dictum urna at lacinia. Suspendisse commodo lacus aliquet lacus tristique, ut suscipit nulla consequat. Duis malesuada turpis at bibendum pretium. Proin at diam vitae dui tristique molestie. Integer eu neque sit amet nisl venenatis congue non non lacus. Mauris vehicula varius ligula, eu dictum mauris pretium in. Pellentesque risus lectus, pharetra sit amet sagittis id, congue id enim. Aenean aliquet ex diam, et gravida mi mollis ut.</string>
+    <string name="welcome_title">Bienvenido a SocialBee!</string>
+    <string name="producers_info_title">Contácta a miles de productores en segundos</string>
 </resources>

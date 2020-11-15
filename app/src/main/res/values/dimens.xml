@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="toolbarHeight">30dp</dimen>
+    <dimen name="homeCardCornerRadius">4dp</dimen>
+    <dimen name="homeCardElevation">1dp</dimen>
+    <dimen name="homeTitleSize">15sp</dimen>
+    <dimen name="homeSubtitleMargin">10dp</dimen>
+    <dimen name="homeViewHeight">1dp</dimen>
+    <dimen name="homeCardMargin">15sp</dimen>
+    <dimen name="homeContentTextSize">11sp</dimen>
 </resources>
