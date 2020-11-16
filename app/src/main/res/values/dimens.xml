@@ -8,4 +8,6 @@
     <dimen name="homeViewHeight">1dp</dimen>
     <dimen name="homeCardMargin">15sp</dimen>
     <dimen name="homeContentTextSize">11sp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
 </resources>
