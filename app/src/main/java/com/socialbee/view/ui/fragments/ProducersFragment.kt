@@ -43,7 +43,7 @@ class ProducersFragment : Fragment(), ProducersListener {
         producersAdapter = ProducersAdapter(this)
 
         rvProducer.apply {
-            layoutManager = GridLayoutManager(context,2)
+            layoutManager = GridLayoutManager(context,1)
             adapter = producersAdapter
         }
 
