@@ -17,8 +17,6 @@ class LogInActivity : AppCompatActivity(), View.OnClickListener {
     private lateinit var googleSignInClient: GoogleSignInClient
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        setTheme(R.style.AppTheme)
-
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_log_in)
 
